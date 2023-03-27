@@ -1,2 +1,2 @@
 # toDoList Simple
-Demo https://engmohamedabdo.github.io/toDoList/
+Demo https://engmohamedabdo.github.io/toDoList-simple/
